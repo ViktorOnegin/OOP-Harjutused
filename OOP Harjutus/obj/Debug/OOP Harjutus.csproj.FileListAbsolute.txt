@@ -1,0 +1,7 @@
+D:\programs\Visual Studio 2017\OOP Harjutus\OOP Harjutus\bin\Debug\OOP Harjutus.exe.config
+D:\programs\Visual Studio 2017\OOP Harjutus\OOP Harjutus\bin\Debug\OOP Harjutus.exe
+D:\programs\Visual Studio 2017\OOP Harjutus\OOP Harjutus\bin\Debug\OOP Harjutus.pdb
+D:\programs\Visual Studio 2017\OOP Harjutus\OOP Harjutus\obj\Debug\OOP Harjutus.csprojResolveAssemblyReference.cache
+D:\programs\Visual Studio 2017\OOP Harjutus\OOP Harjutus\obj\Debug\OOP Harjutus.csproj.CoreCompileInputs.cache
+D:\programs\Visual Studio 2017\OOP Harjutus\OOP Harjutus\obj\Debug\OOP Harjutus.exe
+D:\programs\Visual Studio 2017\OOP Harjutus\OOP Harjutus\obj\Debug\OOP Harjutus.pdb
